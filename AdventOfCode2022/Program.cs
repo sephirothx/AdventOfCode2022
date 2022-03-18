@@ -9,8 +9,8 @@ namespace AdventOfCode2022
         {
             string input = File.ReadAllText("inputs/input.txt");
 
-            Console.WriteLine(Day7.Part1(input));
-            Console.WriteLine(Day7.Part2(input));
+            Console.WriteLine(Day8.Part1(input));
+            Console.WriteLine(Day8.Part2(input));
         }
     }
 }
